@@ -13,3 +13,9 @@ type (and this plugin) to work.
 NOTE: Make sure that the user that Bamboo is using to check out your
 repositories also has write permissions, otherwise it will not be able to
 create commit statuses.
+
+# Build Instructions
+
+https://developer.atlassian.com/server/framework/atlassian-sdk/set-up-the-atlassian-plugin-sdk-and-build-a-project/
+
+
